@@ -34,7 +34,7 @@ sleep 0.2 && ${ECHO} "	╚═╝      ╚═════╝ ╚═╝  ╚═╝
 ${ECHO} ""
 
 sleep 0.1
-${ECHO} $green"              A list of movies every hacker & cyberpunk must watch ("$red"Movies For Hackers"$green")"
+${ECHO} $green"              A catalog of movies every hacker & cyberpunk must watch ("$red"Movies For Hackers"$green")"
 sleep 0.1
 ${ECHO} $blue "           	           Made with <3 by:"$green" Nikolaos Kamarinakis ("$red"k4m4"$green")"
 sleep 0.1
